@@ -7,6 +7,11 @@ com foco em desenvolvimento de software, e integração entre aplicativos.
 
 ### 🤖 Linguagens e Tecnologias
 
+
+
+
+
+
 <img
      alinhar="esquerda"
      alt="HTML"
