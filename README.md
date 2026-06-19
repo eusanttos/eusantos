@@ -5,12 +5,11 @@
 Concluí o ensino médio com curso técnico em Informática e atualmente estou me dedicando ao aperfeiçoamento na área de programação por meio de cursos, certificações e projetos práticos,
 com foco em desenvolvimento de software, e integração entre aplicativos.
 
+
+---
+
+
 ### 🤖 Linguagens e Tecnologias
-
-
-
-
-
 
 <img
      alinhar="esquerda"
