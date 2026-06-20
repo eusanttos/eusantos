@@ -5,16 +5,10 @@
 Concluí o ensino médio com curso técnico em Informática e atualmente estou me dedicando ao aperfeiçoamento na área de programação por meio de cursos, certificações e projetos práticos,
 com foco em desenvolvimento de software, e integração entre aplicativos.
 
-
----
-
-
 ### 🤖 Linguagens e Tecnologias
 
-
-
 <img
-    align="left"
+     align="left"
      alinhar="esquerda"
      alt="HTML"
      titulo="HTML"
@@ -87,5 +81,4 @@ com foco em desenvolvimento de software, e integração entre aplicativos.
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 
